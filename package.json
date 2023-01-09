@@ -1,0 +1,15 @@
+{
+  "name": "twitterbotestiam",
+  "version": "1.0.0",
+  "description": "Twitter Bot track ESTIAM and like post and retweet and suscribe follower who have more than 100 followers",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "twit": "^2.2.11"
+  }
+}
